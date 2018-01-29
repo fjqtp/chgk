@@ -23,7 +23,7 @@
 <body>
 <div class="container">
     <div class="page-header">
-        <h1><strong>Осень 2017</strong></h1> 
+        <h1><strong>Весна 2018</strong></h1> 
         <h3><strong>Чемпионат Томска по Что? Где? Когда?</strong></h3>
     </div>
     <div>
