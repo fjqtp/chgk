@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Осень 2017</title>
+    <title>Весна 2018</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -150,10 +150,10 @@
                 </li>
             </ul>
         </div>
-        <div>
+<div>
             <ul class="nav panel">
                 <li>
-                    <a href="brain.html" style="display: block; color: inherit; text-decoration: none;">
+                    <a href="schedule.html" style="display: block; color: inherit; text-decoration: none;">
                         <div style="display: flex; align-items: center; width: 100%;">
                             <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
                                 <div style="height: 24px; width: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center;">
@@ -168,59 +168,17 @@
                             <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
                                 <div style="display: flex; align-items: center;">
                                     <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Чемпионат по брейну</span>
+                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Расписание</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </a>
                 </li>
-                <li>
-                    <a href="hamsa.html" style="display: block; color: inherit; text-decoration: none;">
-                        <div style="display: flex; align-items: center; width: 100%;">
-                            <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
-                                <div style="height: 24px; width: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center;">
-                                    <svg width="100%" height="100%" viewBox="0 0 30 30" style="fill: currentcolor; display: block; width: 22px; height: 22px; min-height: 22px; min-width: 22px;">
-                                        <g>
-                                            <path d="M16,1H4v28h22V11L16,1z M16,3.828L23.172,11H16V3.828z M24,27H6V3h8v10h10V27z M8,17h14v-2H8V17z M8,21h14v-2H8V21z M8,25h14v-2H8V25z">
-                                            </path>
-                                        </g>
-                                    </svg>
-                                </div>
-                            </div>
-                            <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
-                                <div style="display: flex; align-items: center;">
-                                    <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Чемпионат по хамсе</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
-                <li>
-                    <a href="world_cup.html" style="display: block; color: inherit; text-decoration: none;">
-                        <div style="display: flex; align-items: center; width: 100%;">
-                            <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
-                                <div style="height: 24px; width: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center;">
-                                    <svg width="100%" height="100%" viewBox="0 0 30 30" style="fill: currentcolor; display: block; width: 22px; height: 22px; min-height: 22px; min-width: 22px;">
-                                        <g>
-                                            <path d="M16,1H4v28h22V11L16,1z M16,3.828L23.172,11H16V3.828z M24,27H6V3h8v10h10V27z M8,17h14v-2H8V17z M8,21h14v-2H8V21z M8,25h14v-2H8V25z">
-                                            </path>
-                                        </g>
-                                    </svg>
-                                </div>
-                            </div>
-                            <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
-                                <div style="display: flex; align-items: center;">
-                                    <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Молодежный Кубок Мира по СИ</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </li>
+            </ul>
+        </div>
+        <div>
+            <ul class="nav panel">
                 <li>
                     <a href="mpi.html" style="display: block; color: inherit; text-decoration: none;">
                         <div style="display: flex; align-items: center; width: 100%;">
@@ -267,12 +225,8 @@
                         </div>
                     </a>
                 </li>
-            </ul>
-        </div>
-        <div>
-            <ul class="nav panel">
-                <li>
-                    <a href="schedule.html" style="display: block; color: inherit; text-decoration: none;">
+<li>
+                    <a href="brain.html" style="display: block; color: inherit; text-decoration: none;">
                         <div style="display: flex; align-items: center; width: 100%;">
                             <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
                                 <div style="height: 24px; width: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center;">
@@ -287,7 +241,53 @@
                             <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
                                 <div style="display: flex; align-items: center;">
                                     <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Расписание</span>
+                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Чемпионат по Брейн-рингу — осень 2017</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="hamsa.html" style="display: block; color: inherit; text-decoration: none;">
+                        <div style="display: flex; align-items: center; width: 100%;">
+                            <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
+                                <div style="height: 24px; width: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center;">
+                                    <svg width="100%" height="100%" viewBox="0 0 30 30" style="fill: currentcolor; display: block; width: 22px; height: 22px; min-height: 22px; min-width: 22px;">
+                                        <g>
+                                            <path d="M16,1H4v28h22V11L16,1z M16,3.828L23.172,11H16V3.828z M24,27H6V3h8v10h10V27z M8,17h14v-2H8V17z M8,21h14v-2H8V21z M8,25h14v-2H8V25z">
+                                            </path>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
+                                <div style="display: flex; align-items: center;">
+                                    <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Чемпионат по Хамсе — осень 2017</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="world_cup.html" style="display: block; color: inherit; text-decoration: none;">
+                        <div style="display: flex; align-items: center; width: 100%;">
+                            <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
+                                <div style="height: 24px; width: 24px; border-radius: 3px; display: flex; align-items: center; justify-content: center;">
+                                    <svg width="100%" height="100%" viewBox="0 0 30 30" style="fill: currentcolor; display: block; width: 22px; height: 22px; min-height: 22px; min-width: 22px;">
+                                        <g>
+                                            <path d="M16,1H4v28h22V11L16,1z M16,3.828L23.172,11H16V3.828z M24,27H6V3h8v10h10V27z M8,17h14v-2H8V17z M8,21h14v-2H8V21z M8,25h14v-2H8V25z">
+                                            </path>
+                                        </g>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
+                                <div style="display: flex; align-items: center;">
+                                    <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
+                                        <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Молодежный Кубок Мира по СИ — осень 2017</span>
                                     </div>
                                 </div>
                             </div>
