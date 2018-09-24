@@ -1,13 +1,13 @@
 let dataItems = [
     {
         tour: 1,
-        day: 30,
+        day: 29,
         month: 9,
         year: 2018
     },
     {
         tour: 2,
-        day: 7,
+        day: 6,
         month: 10,
         year: 2018
     },
