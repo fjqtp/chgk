@@ -25,7 +25,7 @@ let dataItems = [
     },
     {
         tour: 5,
-        day: 1,
+        day: 8,
         month: 12,
         year: 2018
     },
