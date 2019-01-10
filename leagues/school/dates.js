@@ -1,44 +1,44 @@
 var dataItems = [
     {
         tour: 1,
-        day: 23,
+        day: 22,
         month: 9,
-        year: 2017
+        year: 2018
     },
     {
         tour: 2,
-        day: 21,
+        day: 27,
         month: 10,
-        year: 2017
+        year: 2018
     },
     {
         tour: 3,
-        day: 18,
+        day: 24,
         month: 11,
-        year: 2017
+        year: 2018
     },
     {
         tour: 4,
-        day: 16,
+        day: 15,
         month: 12,
-        year: 2017
+        year: 2018
     },
     {
         tour: 5,
-        day: 20,
+        day: 19,
         month: 1,
         year: 2018
     },
     {
         tour: 6,
-        day: 10,
+        day: 9,
         month: 2,
-        year: 2018
+        year: 2019
     },
     {
         tour: 7,
-        day: 3,
+        day: 2,
         month: 3,
-        year: 2018
+        year: 2019
     }
 ]
