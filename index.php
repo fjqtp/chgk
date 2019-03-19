@@ -244,10 +244,6 @@
                     </div>
                 </a>
             </li>
-        </ul>
-    </div>
-    <div>
-        <ul class="nav panel">
             <li>
                 <a href="archive/2018-fall.html" style="display: block; color: inherit; text-decoration: none;">
                     <div style="display: flex; align-items: center; width: 100%;">
