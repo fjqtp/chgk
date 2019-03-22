@@ -55,7 +55,7 @@
                 </a>
             </li>
             <li>
-                <a href="leagues/first/league.html"
+                <a href="leagues/first/league2.html"
                    style="display: block; color: inherit; text-decoration: none;">
                     <div style="display: flex; align-items: center; width: 100%;">
                         <div style="margin-right: 4px; width: 24px; flex-grow: 0; flex-shrink: 0; display: flex; align-items: center; justify-content: center; min-height: calc((1.5em + 3px) + 3px);">
