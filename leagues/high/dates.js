@@ -13,7 +13,7 @@ var dataItems = [
     },
     {
         tour: 3,
-        day: 17,
+        day: 24,
         month: 3,
         year: 2019
     },
