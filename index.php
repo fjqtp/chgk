@@ -286,7 +286,7 @@
                         <div style="flex: 1 1 0px; min-width: 1px; padding-top: 3px; padding-bottom: 3px; padding-left: 2px; width: 1px;">
                             <div style="display: flex; align-items: center;">
                                 <div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                                    <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Весна 2018</span>
+                                    <span style="font-weight: 500; border-bottom: 1px solid rgb(232, 232, 232);">Весна 2019</span>
                                 </div>
                             </div>
                         </div>
