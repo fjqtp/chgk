@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Весна 2019</title>
+    <title>Осень 2019</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -25,7 +25,7 @@
 <body>
 <div class="container">
     <div class="page-header">
-        <h1><strong>Весна 2019</strong></h1>
+        <h1><strong>Осень 2019</strong></h1>
         <h3><strong>Чемпионат Томска по Что? Где? Когда?</strong></h3>
     </div>
     <div>
